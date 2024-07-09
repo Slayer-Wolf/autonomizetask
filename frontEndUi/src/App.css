@@ -1,0 +1,22 @@
+.app {
+	text-align: center;
+	padding: 20px;
+}
+
+.app h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+button {
+	background-color: #007bff;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	cursor: pointer;
+	margin: 10px;
+}
+
+button:hover {
+	background-color: #0056b3;
+}
